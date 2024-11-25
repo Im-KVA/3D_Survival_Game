@@ -10,6 +10,9 @@
 - FreeAssets from opengameart.org for UI
 - FreeAssets from itch.io for UI
 
+# Link-Demo (Google Drive)
+https://drive.google.com/drive/u/1/folders/1rqc4OpN9C_FQJKpheQAAfvzdHKf5hoMh
+
 # Procedural World-Gen (Bản đồ vô tận ngẫu nhiên)
 <img src ="WorldGen - Bản đồ/World-gen.png">
 <img src ="WorldGen - Bản đồ/1-tile.png">
