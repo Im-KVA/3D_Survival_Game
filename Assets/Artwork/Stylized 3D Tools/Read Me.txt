@@ -1,0 +1,22 @@
+Stylized 3D Tools
+
+To make use of the items pivot points look to the right of the four main control buttons (pan, move, rotate, scale), and you'll see two other buttons.
+The first toggles between "Center" or "Pivot", and the second toggles between "Local" or "Global".
+Use "Pivot" for the first one and "Local" for the second one.
+
+Stylized Tool Pack
+
+Axe - 850 tris
+Pickaxe - 1160 tris
+Hammer - 466 tris
+
+2048x2048 Diffuse Texture and Normal Map for all assets.
+
+Includes example scene with all the items.
+
+Support Mail
+FrostForgedAssets@gmail.com
+
+Twitter
+@FrostForged
+
