@@ -1,12 +1,13 @@
 # 3D_Survival_Game
 - Building system, Inventory system, Crafting System, Time&DayNight system, Chests system, Chopping Tree, Collecting resources, Attack Monsters...
 - Procedural World (Random Seed World-Gen)
+- Sound Effects & Animations
 
 ## Techs & Credits
 - Unity (C#)
-- Assets from the Unity asset store
-- Assets from opengameart.org
-- Assets from itch.io
+- Assets from the Unity asset store: Azure Nature, Fantasy Sky Box Free, LowPoly Survival Kit, Monsters Pack 01, QuickOutline, Stylized 3D Tools
+- FreeAssets from opengameart.org for UI
+- FreeAssets from itch.io for UI
 
 # World-Gen
 <img src ="WorldGen - Bản đồ/World-gen.png">
