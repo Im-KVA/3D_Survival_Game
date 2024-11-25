@@ -2,6 +2,7 @@
 - Building system, Inventory system, Crafting System, Time&DayNight system, Chests system, Chopping Tree, Collecting resources, Attack Monsters...
 - Procedural World (Random Seed World-Gen)
 - Sound Effects & Animations
+<img src ="Ảnh In-game/Game.png">
 
 ## Techs & Credits
 - Unity (C#)
@@ -29,33 +30,33 @@
 
 ## Others Unity-Gameplay-Preview
 <p align = "left" >
-<img src ="Ảnh In-game/loading_screen.png" width = 300>
-<img src ="Ảnh In-game/Player_view.png" width = 300>
-<img src ="Ảnh In-game/Crafting&Inventory_UI.png" width = 300>
+<img src ="Ảnh In-game/loading_screen.png" width = 200>
+<img src ="Ảnh In-game/Player_view.png" width = 200>
+<img src ="Ảnh In-game/Crafting&Inventory_UI.png" width = 200>
 </p>
 
 <p align = "left" >
-<img src ="Ảnh In-game/Chopping_1.png" width = 300>
-<img src ="Ảnh In-game/Chopping_2.png" width = 300>
-<img src ="Ảnh In-game/Chopping_3.png" width = 300>
+<img src ="Ảnh In-game/Chopping_1.png" width = 200>
+<img src ="Ảnh In-game/Chopping_2.png" width = 200>
+<img src ="Ảnh In-game/Chopping_3.png" width = 200>
 </p>
 
 <p align = "left" >
-<img src ="Ảnh In-game/Building.png" width = 300>
-<img src ="Ảnh In-game/Placing_Item.png" width = 300>
-<img src ="Ảnh In-game/Box.png" width = 300>
+<img src ="Ảnh In-game/Building.png" width = 200>
+<img src ="Ảnh In-game/Placing_Item.png" width = 200>
+<img src ="Ảnh In-game/Box.png" width = 200>
 </p>
 
 <p align = "left" >
-<img src ="Ảnh In-game/Attacking.png" width = 300>
-<img src ="Ảnh In-game/Killing_before.png" width = 300>
-<img src ="Ảnh In-game/Killing.png" width = 300>
+<img src ="Ảnh In-game/Attacking.png" width = 200>
+<img src ="Ảnh In-game/Killing_before.png" width = 200>
+<img src ="Ảnh In-game/Killing.png" width = 200>
 </p>
 
 <p align = "left" >
-<img src ="Ảnh In-game/MainMenu.png" width = 300>
-<img src ="Ảnh In-game/Load_game_1.png" width = 300>
-<img src ="Ảnh In-game/Load_game_2.png" width = 300>
+<img src ="Ảnh In-game/MainMenu.png" width = 200>
+<img src ="Ảnh In-game/Load_game_1.png" width = 200>
+<img src ="Ảnh In-game/Load_game_2.png" width = 200>
 </p>
 
 ## MapMagic2 - Nodes
