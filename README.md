@@ -29,6 +29,7 @@
 <img src ="Ảnh In-game/Chiều - Đêm.png" width = 600>
 
 ## Others Unity-Gameplay-Preview
+### loading_screen | Player_view | Crafting&Inventory_UI
 <p align = "left" >
 <img src ="Ảnh In-game/loading_screen.png" width = 200>
 |
@@ -37,6 +38,7 @@
 <img src ="Ảnh In-game/Crafting&Inventory_UI.png" width = 200>
 </p>
 
+### Chopping_1 | Chopping_2 | Chopping_3
 <p align = "left" >
 <img src ="Ảnh In-game/Chopping_1.png" width = 200>
   |
@@ -45,6 +47,7 @@
 <img src ="Ảnh In-game/Chopping_3.png" width = 200>
 </p>
 
+### Building | Placing_Item | Box
 <p align = "left" >
 <img src ="Ảnh In-game/Building.png" width = 200>
   |
@@ -53,6 +56,7 @@
 <img src ="Ảnh In-game/Box.png" width = 200>
 </p>
 
+### Attacking | Killing_before | Killing
 <p align = "left" >
 <img src ="Ảnh In-game/Attacking.png" width = 200>
   |
@@ -61,6 +65,7 @@
 <img src ="Ảnh In-game/Killing.png" width = 200>
 </p>
 
+### MainMenu | Load_game_1 | Load_game_2
 <p align = "left" >
 <img src ="Ảnh In-game/MainMenu.png" width = 200>
   |
