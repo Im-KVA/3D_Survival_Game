@@ -9,7 +9,7 @@
 - FreeAssets from opengameart.org for UI
 - FreeAssets from itch.io for UI
 
-# World-Gen
+# Procedural World-Gen (Bản đồ vô tận ngẫu nhiên)
 <img src ="WorldGen - Bản đồ/World-gen.png">
 <img src ="WorldGen - Bản đồ/1-tile.png">
 <img src ="WorldGen - Bản đồ/9-tile.png">
