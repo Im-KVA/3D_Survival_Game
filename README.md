@@ -34,47 +34,47 @@ https://drive.google.com/drive/u/1/folders/1rqc4OpN9C_FQJKpheQAAfvzdHKf5hoMh
 ## Others Unity-Gameplay-Preview
 ### loading_screen | Player_view | Crafting&Inventory_UI
 <p align = "left" >
-<img src ="Ảnh In-game/loading_screen.png" width = 200>
+<img src ="Ảnh In-game/loading_screen.png" width = 600>
 |
-<img src ="Ảnh In-game/Player_view.png" width = 200>
+<img src ="Ảnh In-game/Player_view.png" width = 600>
 |
-<img src ="Ảnh In-game/Crafting&Inventory_UI.png" width = 200>
+<img src ="Ảnh In-game/Crafting&Inventory_UI.png" width = 600>
 </p>
 
 ### Chopping_1 | Chopping_2 | Chopping_3
 <p align = "left" >
-<img src ="Ảnh In-game/Chopping_1.png" width = 200>
+<img src ="Ảnh In-game/Chopping_1.png" width = 600>
   |
-<img src ="Ảnh In-game/Chopping_2.png" width = 200>
+<img src ="Ảnh In-game/Chopping_2.png" width = 600>
   |
-<img src ="Ảnh In-game/Chopping_3.png" width = 200>
+<img src ="Ảnh In-game/Chopping_3.png" width = 600>
 </p>
 
 ### Building | Placing_Item | Box
 <p align = "left" >
-<img src ="Ảnh In-game/Building.png" width = 200>
+<img src ="Ảnh In-game/Building.png" width = 600>
   |
-<img src ="Ảnh In-game/Placing_Item.png" width = 200>
+<img src ="Ảnh In-game/Placing_Item.png" width = 600>
   |
-<img src ="Ảnh In-game/Box.png" width = 200>
+<img src ="Ảnh In-game/Box.png" width = 600>
 </p>
 
 ### Attacking | Killing_before | Killing
 <p align = "left" >
-<img src ="Ảnh In-game/Attacking.png" width = 200>
+<img src ="Ảnh In-game/Attacking.png" width = 600>
   |
-<img src ="Ảnh In-game/Killing_before.png" width = 200>
+<img src ="Ảnh In-game/Killing_before.png" width = 600>
   |
-<img src ="Ảnh In-game/Killing.png" width = 200>
+<img src ="Ảnh In-game/Killing.png" width = 600>
 </p>
 
 ### MainMenu | Load_game_1 | Load_game_2
 <p align = "left" >
-<img src ="Ảnh In-game/MainMenu.png" width = 200>
+<img src ="Ảnh In-game/MainMenu.png" width = 600>
   |
-<img src ="Ảnh In-game/Load_game_1.png" width = 200>
+<img src ="Ảnh In-game/Load_game_1.png" width = 600>
   |
-<img src ="Ảnh In-game/Load_game_2.png" width = 200>
+<img src ="Ảnh In-game/Load_game_2.png" width = 600>
 </p>
 
 ## MapMagic2 - Nodes
